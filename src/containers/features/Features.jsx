@@ -7,7 +7,7 @@ const Features = () => {
       <div className="gpt3__features-heading">
         <h1 className="gradient__text">The Future Is Now And You Just Need To Realize It. Step Into Future Today & Make It Happen.</h1>
       </div>
-    </div>-
+    </div>
   )
 }
 
